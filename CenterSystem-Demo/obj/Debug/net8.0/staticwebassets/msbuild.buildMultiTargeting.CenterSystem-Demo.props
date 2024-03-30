@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\CenterSystem-Demo.props" />
+</Project>
