@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CenterSystem-Demo")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+27422b326302188e9438d154b22db70020b98721")]
 [assembly: System.Reflection.AssemblyProductAttribute("CenterSystem-Demo")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CenterSystem-Demo")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

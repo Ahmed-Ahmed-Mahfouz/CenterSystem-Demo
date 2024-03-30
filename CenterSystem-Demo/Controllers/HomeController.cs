@@ -15,9 +15,30 @@ namespace CenterSystem_Demo.Controllers
 
         public IActionResult Index()
         {
-            return View();
+            return View("index");
         }
 
+
+        public IActionResult Add()
+        {
+            return View("add");
+        }
+
+
+        public IActionResult login()
+        {
+            return View("Login");
+        }
+
+        public IActionResult register()
+        {
+            return View("Register");
+        }
+
+        public IActionResult Financial()
+        {
+            return View("index");
+        }
         public IActionResult Privacy()
         {
             return View();

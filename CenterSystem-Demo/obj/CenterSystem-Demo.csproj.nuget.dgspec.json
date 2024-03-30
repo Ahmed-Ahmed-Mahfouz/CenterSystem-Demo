@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\YN\\Desktop\\Freelance\\CenterSystem-Demo\\CenterSystem-Demo\\CenterSystem-Demo.csproj": {}
+    "D:\\ITI\\FreeLance\\CenterSystem-Demo\\CenterSystem-Demo\\CenterSystem-Demo.csproj": {}
   },
   "projects": {
-    "C:\\Users\\YN\\Desktop\\Freelance\\CenterSystem-Demo\\CenterSystem-Demo\\CenterSystem-Demo.csproj": {
+    "D:\\ITI\\FreeLance\\CenterSystem-Demo\\CenterSystem-Demo\\CenterSystem-Demo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\YN\\Desktop\\Freelance\\CenterSystem-Demo\\CenterSystem-Demo\\CenterSystem-Demo.csproj",
+        "projectUniqueName": "D:\\ITI\\FreeLance\\CenterSystem-Demo\\CenterSystem-Demo\\CenterSystem-Demo.csproj",
         "projectName": "CenterSystem-Demo",
-        "projectPath": "C:\\Users\\YN\\Desktop\\Freelance\\CenterSystem-Demo\\CenterSystem-Demo\\CenterSystem-Demo.csproj",
-        "packagesPath": "C:\\Users\\YN\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\YN\\Desktop\\Freelance\\CenterSystem-Demo\\CenterSystem-Demo\\obj\\",
+        "projectPath": "D:\\ITI\\FreeLance\\CenterSystem-Demo\\CenterSystem-Demo\\CenterSystem-Demo.csproj",
+        "packagesPath": "C:\\Users\\SHaFiQ\\.nuget\\packages\\",
+        "outputPath": "D:\\ITI\\FreeLance\\CenterSystem-Demo\\CenterSystem-Demo\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\YN\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\SHaFiQ\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -44,6 +44,12 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[8.0.2, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
